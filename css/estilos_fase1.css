@@ -1,0 +1,96 @@
+
+body {
+    background: #f2f2f2;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.navbar{
+    background: #7a32ed;
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
+.navbar-brand {
+    color:#fff
+}
+.nav-link{
+    color:#fff;
+}
+
+
+header {
+    background: #7a32ed;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.contenedor > div {
+            padding: 10px;
+            border: 1px solid #0dcdfd;
+            margin: 2px;
+            border-radius: 5px;
+        }
+.contenedor-main {
+    margin-bottom: 20px;
+}
+main {
+    background: #fff;
+    color: #0a0a0a;
+    padding: 20px 0;
+    
+}
+
+aside {
+    background: #dee5e8;
+    color: #2009ec;
+    padding: 20px 0;
+    text-align: justify;
+}
+main1 {
+    background: #dee5e8;
+    color: #0a0a0a;
+    padding: 20px 0;
+    text-align: justify;
+}  
+    
+.contexto {
+    background:#ed8c32;
+    padding: 20px 0;
+    
+    
+}
+.objetivo {
+    background: #dee5e8;
+    color: #5e4eee;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.titulo-h2{
+    color:#2009ec;
+}
+
+.widgets {
+    margin-bottom: 20px;
+    
+}
+.widgets > div  {
+    background: #9679c5;
+    color: #fff;
+    padding: 10px;
+    border: 1px solid #0dcdfd;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+actores {
+    background: #dee5e8;
+    color: #5e4eee;
+    padding: 20px;
+}
+footer {
+    padding: 20px 0;
+    background: #1e1e1e;
+    text-align: center ;
+}
